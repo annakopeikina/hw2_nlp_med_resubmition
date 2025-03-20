@@ -1,4 +1,4 @@
-patient_id,date_of_birth,sex_concept_id,hospital_days
+person_id,date_of_birth,sex_concept_id,hospital_days
 1067,1978-11-11,25,11
 1068,1952-03-28,25,17
 1069,1962-11-02,25,17
